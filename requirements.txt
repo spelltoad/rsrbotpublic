@@ -1,0 +1,4 @@
+yadisk
+telegram
+python-telegram-bot
+requests
